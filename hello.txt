@@ -1,4 +1,4 @@
 helloworld
 test
 after conflict
-master
+conflict2
