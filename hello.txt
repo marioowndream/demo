@@ -3,4 +3,4 @@ test
 after conflict
 conflict2
 test3
-test4
+hello conflict3
