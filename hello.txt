@@ -4,4 +4,4 @@ after conflict
 conflict2
 test3
 hello conflict3
-conflict4
+solve conflict4
