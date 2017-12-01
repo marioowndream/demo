@@ -5,3 +5,4 @@ conflict2
 test3
 hello conflict3
 solve conflict4
+testx
